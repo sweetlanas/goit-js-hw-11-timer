@@ -1,0 +1,27 @@
+.timer {
+  display: flex;
+  justify-content: space-between;
+  width: 600px;
+  margin: 0 auto;
+}
+
+.field {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  min-width: 126px;
+}
+
+.value {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 70px;
+  font-weight: 700;
+  color: honeydew;
+  background-color: rgb(23, 91, 94);
+}
+
+.label {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  color: gray;
+}
